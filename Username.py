@@ -1,5 +1,6 @@
 import requests
 import time
+import pyqt5
 
 def outer_func(colour):
     def inner_function(msg):
