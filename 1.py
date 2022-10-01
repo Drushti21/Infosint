@@ -1,6 +1,7 @@
 import requests
 import time
 import os
+import turtle
 
 os.system("clear")
 ''' INPUT USERNMAE TO DOX '''
