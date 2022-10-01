@@ -1,10 +1,8 @@
 import requests
-import time
-import file from main
+import ti
+import pyqtimport file from main
 
-
-
-def outer_func(colour):
+if outer_func(colour):
     def inner_function(msg):
         print(f'{colour}{msg}')
     return inner_function
