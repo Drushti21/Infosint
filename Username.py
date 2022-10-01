@@ -1,5 +1,8 @@
 import requests
 import time
+import file from main
+
+
 
 def outer_func(colour):
     def inner_function(msg):
